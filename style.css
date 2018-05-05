@@ -1,5 +1,10 @@
 /* Universal Styles */
 
+@font-face{
+    font-family: "Glegoo";
+    src: local('Glegoo'), url(../fonts/Glegoo-Regular.ttf), format('truetype');
+  }
+
 html {
     font-size: 16px;
     font-family: "Arial", sans-serif;
@@ -83,6 +88,8 @@ html {
     padding: 10px;
     color: #b3adad;
     line-height: 1.4;
+    font-family: "Glegoo";
+    font-size: 20px;
   }
   
   /* Editorial Sections */
