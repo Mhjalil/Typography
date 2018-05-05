@@ -121,6 +121,10 @@ html {
     color: #4D00FF;
     font-size: 100px;
   }
+
+  .space .sample .text {
+    font-family:"Space Mono", monospace;
+  }
   
   /* Add styles for the Garamond font here */
   
