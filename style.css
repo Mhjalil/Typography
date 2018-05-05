@@ -12,6 +12,7 @@ html {
   h1 {
     color: white;
     font-size: 28px;
+    text-transform: uppercase;
   }
   
   h2 {
@@ -49,6 +50,7 @@ html {
     position: fixed;
     top: 0;
     width: 100%;
+    text-align: center;
   }
   
   .header li {
@@ -79,7 +81,8 @@ html {
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     padding: 10px;
-    color: #ffffff;
+    color: #b3adad;
+    line-height: 1.4;
   }
   
   /* Editorial Sections */
